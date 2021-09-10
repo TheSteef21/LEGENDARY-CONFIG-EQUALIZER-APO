@@ -1,0 +1,27 @@
+Device: Microphone High Definition Audio Device {dffd8d5c-8486-486b-aac5-159ec7fe60ea}; Microphone High Definition Audio Device {ed1e0caa-1522-4d03-b8cf-fe3acd821165}
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\librnnoise_vst.dll" "VAD Threshold" 0
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GBand.dll" Res 0.3475 Gain 0.6375 "Lo Cut" 0.17 "Hi Cut" 0.955
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GClip.dll" Gain 0.21 Oversmp 0 Clip 0.6375 Softness 0.235
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GComp.dll" "L/R Link" 1 Gain 0.7925 RMS/Peak 1 Limit 1 Attack 0.0975 Softness 1 Ratio 1 Release 1 Thresh 1 Output 0.3375
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GComp2.dll" Gain 0.445 Gate 0.45 "Lo Cut" 0.05 "Hi Cut" 0.9 Attack 0.365 Compress 0.5725 Release 0.96 Output 0.6275
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GFader.dll" Gain 1
+# VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GForm.dll" Form 0.5 Pitch 0.5 MaxFreq 0.78182 MinFreq 0.165047 Oversmp 0 Gate 0.142857
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GGain.dll" Gain 0.52
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GGate.dll" Thresh 0.65 Fade 1 Attack 0.0025
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GHi.dll" Gain 0.6225 Res 0 "Cut Off" 0
+# VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GLFO.dll" LFO1Wave 1 AmpDepth 0.56 LFO1Freq 0.425 LFO1Phse 0.4625 LFO2Wave 0.8275 PanDepth 0.0725 LFO2Freq 1 LFO2Phse 0.35 LFO3Wave 0.735 LFO3Freq 0.6375 LFO3Phse 0.383196 FltDepth 0.7725
+# VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GLoop.dll" RecllOne 0 PlayStop 0 LoopLvl 1 RecOvdb 0 Reset 0 ClrLast 0 ClrAll 0 RecllAll 0 ThruLvl 1 Master 0.5 SgnlThrs 0.75 LoopSolo 0 TrgClAll 0.653543 AutoPlay 0 HostSync 0 LoopLen 0.157895 BeatSnap 0.02002 AutoOvdb 0 CCTrig 0 NoteTrig 0 TrgPlay 0.629921 TrgRec 0.637795 TrgClLst 0.645669 TrgRcOne 0.661417 TrgRcAll 0.669291 TrgReset 0.677165 WaitSgnl 0 UseDoubl 0
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GLow.dll" Res 0 Gain 0.5 "Cut Off" 1
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GMax.dll" Gain 0.1075 Release 1 Ceiling 1
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GMonoBass.dll" XOver 1 Width 0.5475
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GMulti.dll" Width3 0.65 Freq2 1 Gain 0.9525 LoCut 0.0175 Freq1 1 Width1 0 Thresh1 0.4 Attk1 0.4 Ratio1 0.0333333 Rel1 0.59596 Level1 0.375 Mute1 0 Width2 0.815 Thresh2 0.6975 Mute2 0 Ratio2 0.707222 Attk2 0.59 Rel2 0.704419 Level2 0.6675 Attk3 0.05 Thresh3 0.4 Ratio3 0.0222222 Rel3 0.0909091 Level3 0.375 Mute3 0 Mix 0.34
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GNormal.dll" Level 1 Type 0.5475
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GPitchGate.dll" MaxFreq 1 MinFreq 0.445 InvGate 0 NoPitch 0.166667 Fade 0.635 Attack 0.713333
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GRect.dll" Dry 1 Wet 0.0025
+# VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GRevDly.dll" Time 0.741709 Overlap 1 Effect 0.446684 Dry 1
+# VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GSatMax.dll" Drive 0.265 Gain 1 Ceiling 1 Release 1
+# VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GSnap.dll" Note00 1 VibSpeed 0.0909091 CorThrsh 0.159664 Note11 0 MaxFreq 0.765776 Note08 0 MinFreq 0.177184 Gate 0.428571 Speed 0.157895 CorAmt 0.9 Note06 0 CorAtk 0.414716 CorRel 0.498328 Note01 0 Note02 1 Note03 1 Note04 0 Note05 1 Note07 1 Note09 1 Note10 1 MidiMode 0 BendAmt 0 VibAmt 0 Calib 0.5
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GSpace.dll" EnableEQ 0 Wide 1 InGain 0.933333 MchEQPhs 1 MidGain 0.633333 SideGain 0.933333 Delay 0.523333 Feedback 0.3375 Freq1 0.263443 Freq2 0.640345 Eq1Gain 0.75 Eq2Gain 0.75 Eq3Gain 0.75 Wet 0.446684 Dry 0.9225
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GStereo.dll" Freq1 0.6725 Width3 0.6725 Freq2 1 Width1 0.625 Width2 0.6525
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GTriChorus.dll" Dry 1 HiCut1 0.8125 LoCut1 1 Depth1 1 Depth2 0.6425 Phase1 1 Freq1 0.745 Level1 0.75 Phase3 0.4675 HiCut2 0.6525 Freq3 0.6375 LoCut2 0.645 Freq2 0.7175 HiCut3 0.705 Phase2 0.435 Level2 0.47 LoCut3 0.4075 Depth3 0.415909 Level3 0.0975
+VSTPlugin: Library "D:\432 Hz audio - APO Equalizer, PitchProof\GVSTMANUALS\AllGVSTWin64\GTune.dll" Tune 0.3
